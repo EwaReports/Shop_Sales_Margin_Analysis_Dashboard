@@ -40,7 +40,7 @@ Focus marketing efforts on high-performing products such as bikes
 
 Review pricing strategy for Road-250 Red bikes to improve margin performance
 
-Analyze seasonality patterns to leverage peak periods like October
+Investigate seasonality drivers behind October 2025 peak to inform inventory and marketing planning
 
 
 
