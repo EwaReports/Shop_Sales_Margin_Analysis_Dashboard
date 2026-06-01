@@ -1,5 +1,8 @@
 # Shop_Sales_Margin_Analysis_Dashboard
 This project is a sports shop sales dashboard built using SQL and Power BI. The goal was to identify margin and sale amount of  key products and analyze pricing.
+# Dashboard View
+<img width="1951" height="1094" alt="obraz" src="https://github.com/user-attachments/assets/46f6274b-605c-430d-bbf3-9f7cba45fa48" />
+
 # Business Problem
 The objective of this analysis was evaluate sports shop sales performance and identify the products pricing and profitability to support better pricing decisions. 
 # Dataset
@@ -30,7 +33,7 @@ Bikes category generated is the most popular
 
 In October 2025 recorded the highest sales amount
 
-Sales increase in 2025
+Sales grew 51% year-over-year (2024 → 2025)
 
 # Recommendations
 Focus marketing efforts on high-performing products such as bikes
@@ -39,7 +42,7 @@ Review pricing strategy for Road-250 Red bikes to improve margin performance
 
 Analyze seasonality patterns to leverage peak periods like October
 
-# Dashboard View
-<img width="1964" height="1092" alt="obraz" src="https://github.com/user-attachments/assets/87eb9890-ade2-4ec5-b089-e16b2f3f06e4" />
+
+
 
 
