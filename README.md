@@ -29,7 +29,7 @@ Bike Mountain-Black 38 has the highest margin amount
 
 Patch Kit/8 is the most frequently purchased product
 
-Bikes category generated is the most popular
+Bikes was the most frequently purchased product category based on the number of sales orders
 
 In October 2025 recorded the highest sales amount
 
